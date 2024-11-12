@@ -7,4 +7,4 @@ A full stack Netflix clone website built with Vite + React. It obtains movie det
 
 
 # To Run:
-https://mxrdigras.github.io/quickflix-repo/
+https://mxrdigras.github.io/loonflix-repo/
