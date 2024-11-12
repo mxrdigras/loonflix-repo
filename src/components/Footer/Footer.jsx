@@ -21,7 +21,7 @@ const Footer = () => {
         <li><a>Media Center</a></li>
         <li><a>Investor Relations</a></li>
         <li><a>Jobs</a></li>
-        <li><a>Netflix Shop</a></li>
+        <li><a>Loonflix Shop</a></li>
         <li><a>Terms of Use</a></li>
         <li><a>Privacy</a></li>
         <li><a>Legal Notices</a></li>
