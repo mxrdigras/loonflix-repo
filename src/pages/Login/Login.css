@@ -98,3 +98,15 @@
 .form-switch span:hover {
     text-decoration: underline;
 }
+
+.loading-spinner{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justofy-content: center;
+}
+
+.loading-spiner img{
+    width: 60px;
+}
