@@ -32,7 +32,7 @@ const Footer = () => {
         <li><a>Ad Choices</a></li>
       </ul>
       <div className="service-code">Service Code</div>
-      <p className="copyright-text">© 1997 - 2024 Netflix, Inc.</p>
+      <p className="copyright-text">© 1997 - 2024 Loonflix, Inc.</p>
     </div>
   )
 }

@@ -32,3 +32,27 @@
 .card-list .card{
     position: relative;
 }
+
+@media (max-width: 800px) {
+    .title-cards{
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .title-cards h2{
+        font-size: 20px;
+    }
+    .card-list img{
+        width: 200px;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .title-cards h2 {
+        font-size: 15px;
+    }
+
+    .card-list img {
+        width: 165px;
+    }
+}
